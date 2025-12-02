@@ -11,13 +11,32 @@
             "id": "fd19292e4eb159c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PROT_VITALIS (The Vitalist Concord)"
+            }
+          },
+          {
+            "id": "0d42a230287b1892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROOT/04_NODES/NODE_DOME0_VIVARIUM_HAB09 (The Artemis Habitat).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NODE_DOME0_VIVARIUM_HAB09 (The Artemis Habitat)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,6 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "ROOT/04_NODES/NODE_DOME0_VIVARIUM_HAB09 (The Artemis Habitat).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "ROOT/04_NODES/NODE_DOME0_VIVARIUM_HAB09 (The Artemis Habitat).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "ROOT/04_NODES/NODE_DOME0_VIVARIUM_HAB09 (The Artemis Habitat).md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -161,6 +183,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd19292e4eb159c6",
-  "lastOpenFiles": []
+  "active": "0d42a230287b1892",
+  "lastOpenFiles": [
+    "ekedk.md",
+    "ROOT/05_OCCURENCES/HAZ_LITHOSIS (Acute Lithosis).md",
+    "ROOT/05_OCCURENCES/ERR_RECURSION (-REDACTED-).md",
+    "ROOT/05_OCCURENCES/ERR_ECHO (-REDACTED-).md",
+    "ROOT/04_NODES/NODE_DOME0_VIVARIUM_HAB09 (The Artemis Habitat).md",
+    "ROOT/04_NODES/NODE_DOME0_VIVARIUM (The Mosaic Labs).md",
+    "ROOT/04_NODES/ZONE_UNMAPPED (The Chalklands).md",
+    "ROOT/04_NODES/NODE_VOID (Site Zero).md",
+    "ROOT/04_NODES/NODE_DOME0 (OASIS-01).md",
+    "ROOT/04_NODES/NODE_APEX (The Prime Spire).md",
+    "ROOT/03_EVENTS/LOG_PARTITION (The Schism).md",
+    "ROOT/03_EVENTS/LOG_INIT (The Upload).md",
+    "ROOT/03_EVENTS/BIN_TITHE (The Preservation Protocol).md",
+    "ROOT/02_USERS/USR_ZERO (Dr. Cery Iris).md",
+    "ROOT/02_USERS/SYS_PURGE (The Eraser).md",
+    "ROOT/02_USERS/SYS_PRESERVE (The Keeper).md",
+    "ROOT/02_USERS/SYS_EVOLVE (The Architect).md",
+    "ROOT/02_USERS/ERR_ZERO (-REDACTED-).md",
+    "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord).md",
+    "ROOT/01_FACTIONS/PROT_NULL (The Zero Directive).md",
+    "ROOT/01_FACTIONS/PROT_ASCEND (The Synaptic Ascendancy).md",
+    "ROOT/01_FACTIONS/ERR_UNKNOWN (The Silent Diaspora).md",
+    "ROOT/07_ENTITIES",
+    "ROOT/06_ARTIFACTS",
+    "ROOT/05_OCCURENCES",
+    "ROOT/04_NODES",
+    "ROOT/03_EVENTS",
+    "ROOT/02_USERS",
+    "ROOT/01_FACTIONS",
+    "ROOT"
+  ]
 }
