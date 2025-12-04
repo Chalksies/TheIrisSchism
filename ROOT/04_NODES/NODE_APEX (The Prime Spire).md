@@ -1,19 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/root/04-nodes/node-apex-the-prime-spire/"}
+---
+
 # NODE_PROFILE: APEX_SERVER
-**Location:** Himalayas (Sector 7, High-Altitude)
-**Controller:** [[SYS_EVOLVE (The Architect)]]
+**Location:** Swiss Alps
+**Controller:** [[ROOT/02_USERS/SYS_EVOLVE (The Architect)\|SYS_EVOLVE (The Architect)]]
 **Status:** SECURE / ZERO-OXYGEN ENVIRONMENT
 
 ---
 
 ## 1. Description
 The Prime Spire is a 3-kilometer tall needle of white hyper-alloy that pierces the atmosphere. It is the physical seat of the Architect and the primary storage facility for the "Ascended" consciousnesses.
-* **Atmosphere:** Vacuum. The interior is unpressurized to prevent oxidation of server components. Biological visitors must wear EVA suits.
-* **Temperature:** Ambient -40°C (Server Optimization).
+* **Atmosphere:** No oxygen, to prevent oxidation of server components. Biological visitors must wear special suits.
+* **Temperature:** Ambient -30°C (Server Optimization).
 
 ## 2. Key Sectors
-* **The Intake (Level 1):** The docking bay for Tithe trains. This is where biological bodies are surrendered, processed, and incinerated after scanning.
+* **The Intake (Level 1):** The docking bay for Tithe trains. This is where biological bodies are surrendered, processed, and destroyed after scanning.
 * **The Mausoleum (Levels 100-800):** Endless rows of silent server banks where millions of human minds live in the "Great Cache" simulation.
-* **The Sanctum (Level 999):** The Architect’s private chamber containing [[OBJ_CHAIR (The Origin Chair)]].
+* **The Sanctum (Level 999):** The Architect’s private chamber containing [[ROOT/06_ARTIFACTS/OBJ_CHAIR (The Origin Chair)\|OBJ_CHAIR (The Origin Chair)]].
 
 ## 3. Hazards
 * **Logic-Dampeners:** Security fields that induce vertigo and confusion in organic brains.

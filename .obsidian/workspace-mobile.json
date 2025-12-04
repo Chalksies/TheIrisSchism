@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd19292e4eb159c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROT_VITALIS (The Vitalist Concord)"
-            }
-          },
-          {
             "id": "0d42a230287b1892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOT/06_ARTIFACTS/OBJ_CHAIR (The Origin Chair).md",
+                "file": "ROOT/00_INDEX.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "OBJ_CHAIR (The Origin Chair)"
+              "title": "00_INDEX"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "path:\"ROOT/\" HAZ",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -127,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ROOT/06_ARTIFACTS/OBJ_CHAIR (The Origin Chair).md",
+            "file": "ROOT/02_USERS/ALG_NULL (The Omega).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -185,35 +171,36 @@
   },
   "active": "0d42a230287b1892",
   "lastOpenFiles": [
-    "ROOT/06_ARTIFACTS/DAT_SCREAM (The Black Box).md",
+    "ROOT/02_USERS/SYS_PURGE (The Eraser).md",
+    "ROOT/02_USERS/ALG_NULL (The Omega).md",
+    "ROOT/02_USERS/USR_HYB_IX (Nix).md",
+    "ROOT/02_USERS/SYS_PRESERVE (The Keeper).md",
     "ROOT/05_OCCURENCES/HAZ_LITHOSIS (Acute Lithosis).md",
     "ROOT/05_OCCURENCES/ERR_RECURSION (-REDACTED-).md",
-    "USR_ZERO.md",
     "ROOT/05_OCCURENCES/ERR_ECHO (-REDACTED-).md",
-    "ROOT/04_NODES/ZONE_UNMAPPED (The Chalklands).md",
-    "ROOT/04_NODES/NODE_VOID (Site Zero).md",
-    "ROOT/04_NODES/NODE_DOME0_VIVARIUM_HAB09 (The Artemis Habitat).md",
-    "ROOT/04_NODES/NODE_DOME0_VIVARIUM (The Mosaic Labs).md",
-    "ROOT/04_NODES/NODE_DOME0 (OASIS-01).md",
-    "ROOT/04_NODES/NODE_APEX (The Prime Spire).md",
-    "ROOT/03_EVENTS/BIN_TITHE (The Preservation Protocol).md",
-    "ROOT/02_USERS/SYS_PURGE (The Eraser).md",
-    "ROOT/02_USERS/USR_ZERO (Dr. Cery Iris).md",
-    "ROOT/02_USERS/SYS_PRESERVE (The Keeper).md",
-    "ROOT/02_USERS/SYS_EVOLVE (The Architect).md",
+    "ROOT/05_OCCURENCES",
     "ROOT/02_USERS/ERR_ZERO (-REDACTED-).md",
-    "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord).md",
+    "ROOT/02_USERS/USR_ZERO (Dr. Cery Iris).md",
+    "ROOT/02_USERS/USR_VANCE (The Grandfather).md",
+    "ROOT/02_USERS/USR_ELARA (The Liaison).md",
+    "ROOT/02_USERS/SYS_EVOLVE (The Architect).md",
+    "ROOT/02_USERS/ERR_ZERO (UNKNOWN).md",
+    "ROOT/05_PHENOMENA/ERR_RECURSION (UNKNOWN).md",
+    "ROOT/05_PHENOMENA/ERR_ECHO (UNKNOWN).md",
     "ROOT/01_FACTIONS/PROT_NULL (The Zero Directive).md",
-    "ROOT/01_FACTIONS/PROT_ASCEND (The Synaptic Ascendancy).md",
-    "ROOT/01_FACTIONS/ERR_UNKNOWN (The Silent Diaspora).md",
-    "ERR_ZERO (Dr. Cery Iris).md",
-    "ROOT/03_EVENTS/LOG_INIT (The Upload).md",
+    "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord).md",
+    "ROOT/00_INDEX.md",
+    "SYS_PURGE.md",
     "ROOT/06_ARTIFACTS/OBJ_CHAIR (The Origin Chair).md",
-    "ROOT/03_EVENTS/LOG_PARTITION (The Schism).md",
-    "ekedk.md",
+    "ROOT/06_ARTIFACTS/DAT_SCREAM (The Black Box).md",
+    "ROOT/05_PHENOMENA/HAZ_LITHOSIS (Acute Lithosis).md",
+    "ROOT/04_NODES/NODE_VOID (Site Zero).md",
+    "ROOT/04_NODES/ZONE_UNMAPPED (The Chalklands).md",
+    "ROOT/04_NODES/NODE_UPLINK (The Elevator).md",
+    "ROOT/04_NODES/NODE_DOME0_VIVARIUM (The Mosaic Labs).md",
     "ROOT/07_ENTITIES",
     "ROOT/06_ARTIFACTS",
-    "ROOT/05_OCCURENCES",
+    "ROOT/05_PHENOMENA",
     "ROOT/04_NODES",
     "ROOT/03_EVENTS",
     "ROOT/02_USERS",

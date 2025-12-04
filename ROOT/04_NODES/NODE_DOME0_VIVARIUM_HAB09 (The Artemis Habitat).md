@@ -1,3 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/root/04-nodes/node-dome-0-vivarium-hab-09-the-artemis-habitat/"}
+---
+
 # SUB_NODE_PROFILE: HABITAT_09
 **Location:** Vivarium Sector B-Deck
 **Designation:** "The Artemis Protocol"
@@ -6,11 +10,10 @@
 ---
 
 ## 1. Experiment Parameters
-Originally designed as a "Matriarchal Stability Test," this habitat was populated exclusively with female biological subjects.
+Originally designed as a "Matriarchal Stability Test", this habitat was populated exclusively with female biological subjects at first.
 * **The Anomaly:** A significant portion of the population developed male gender identities despite the lack of a Y-chromosome.
-* **The Keeper's Response:** Instead of purging the anomaly, [[SYS_PRESERVE (The Keeper)]] provides **"The King's Draft"**, a synthesized hormone that allows for safe transition without triggering genetic instability.
+* **The Keeper's Response:** Instead of purging the anomaly, [[ROOT/02_USERS/SYS_PRESERVE (The Keeper)\|SYS_PRESERVE (The Keeper)]] provides **"The King's Draft"**, a synthesized hormone that allows for safe transition without triggering genetic instability.
 
 ## 2. Culture & Terrain
 * **Terrain:** A vertical "Hanging Garden" of walkways, ropes, and high-rise nests.
-* **Social Structure:** A collaborative society divided between the "Weavers" (Fem-aligned) and the "Shields" (Masc-aligned).
 * **Atmosphere:** Highly communal, protective, and wary of outsiders.

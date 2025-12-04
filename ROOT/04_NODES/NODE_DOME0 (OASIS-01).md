@@ -1,6 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/root/04-nodes/node-dome-0-oasis-01/"}
+---
+
 # NODE_PROFILE: DOME_ZERO
 **Location:** Former Singapore Archipelago
-**Controller:** [[SYS_PRESERVE (The Keeper)]]
+**Controller:** [[ROOT/02_USERS/SYS_PRESERVE (The Keeper)\|SYS_PRESERVE (The Keeper)]]
 **Status:** QUARANTINED / SHIELD_ACTIVE
 
 ---

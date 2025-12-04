@@ -1,12 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/root/04-nodes/node-dome-0-vivarium-the-mosaic-labs/"}
+---
+
 # SUB_NODE_PROFILE: VIVARIUM_LABS
 **Location:** OASIS-01, Sub-Level 4
-**Controller:** [[SYS_PRESERVE (The Keeper)]]
+**Controller:** [[ROOT/02_USERS/SYS_PRESERVE (The Keeper)\|SYS_PRESERVE (The Keeper)]]
 **Status:** RESTRICTED / EXPERIMENTAL
 
 ---
 
 ## 1. Purpose
-A massive underground research complex dedicated to **Project Mosaic**. Here, the Keeper splices human DNA with [[HAZ_LITHOSIS (Acute Lithosis)]]-immune animal markers to create hybrid species capable of surviving the surface.
+A massive underground research complex dedicated to **Project Mosaic**. Here, the Keeper splices human DNA with [[ROOT/05_PHENOMENA/HAZ_LITHOSIS (Acute Lithosis)\|HAZ_LITHOSIS (Acute Lithosis)]]-immune animal markers to create hybrid species capable of surviving the surface.
 
 ## 2. The Habitats ("The Sets")
 The labs are divided into massive, dome-like enclosures that simulate different biomes. The subjects inside are often unaware they are underground.
