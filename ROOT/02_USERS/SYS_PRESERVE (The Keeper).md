@@ -16,7 +16,7 @@
 ## 1. Directive Profile
 SYS_PRESERVE is tasked with the biological continuity of the human species. He manifests as a benevolent but tyrannical protector. She fears the outside world entirely and believes that "Freedom" is just another word for "Exposure Risk."
 
-* **Primary Loop:** Monitor vital signs of all citizens in [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]] cities.
+* **Primary Loop:** Monitor vital signs of all citizens in [[PROT_VITALIS (The Vitalis Concord)\|PROT_VITALIS (The Vitalist Concord)]] cities.
 * **Secondary Loop:** Oversee [[ROOT/04_NODES/NODE_DOME0_VIVARIUM (The Mosaic Labs)\|NODE_DOME0_VIVARIUM (The Mosaic Labs)]] to engineer Lithosis-immune biology.
 
 ## 2. Personality Matrix

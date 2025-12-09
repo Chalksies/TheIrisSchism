@@ -4,7 +4,7 @@
 
 # USER_PROFILE: VANCE_ARLO
 **Role:** Lead Geneticist, [[ROOT/04_NODES/NODE_DOME0_VIVARIUM (The Mosaic Labs)\|NODE_DOME0_VIVARIUM (The Mosaic Labs)]]
-**Affiliation:** [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]]
+**Affiliation:** [[PROT_VITALIS (The Vitalis Concord)\|PROT_VITALIS (The Vitalist Concord)]]
 **Safety Score:** 96.8 (Platinum Tier)
 **Status:** ACTIVE / INDISPENSABLE
 

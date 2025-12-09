@@ -22,6 +22,6 @@ This file contains the raw audio input recorded by the CHALK mainframe during th
     * *Track C (High Freq):* Pure, incoherent rage (The Eraser).
  
 ## 3. Hazards
-Listening to this file is illegal in [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]] cities.
+Listening to this file is illegal in [[PROT_VITALIS (The Vitalis Concord)\|PROT_VITALIS (The Vitalist Concord)]] cities.
 * **Psychological Effect:** Humans who listen to more than a few minutes often suffer from extreme anxiety, phantom pains in their joints, or in rare cases, catatonia.
 * **The "Echo" Effect:** Nulls from [[ROOT/01_FACTIONS/ERR_UNKNOWN (The Silent Diaspora)\|ERR_UNKNOWN (The Silent Diaspora)]] claim that the static past 01:43:08 is meaningful raw data. [[ROOT/02_USERS/SYS_EVOLVE (The Architect)\|SYS_EVOLVE (The Architect)]] denies this claim.

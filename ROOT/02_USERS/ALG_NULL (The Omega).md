@@ -24,7 +24,7 @@ The Omega is currently contained in a sealed server rack in the heart of the War
 
 
 ## 3. The Oversight
-Because The Omega believes that existence (including itself) is an error that must be corrected, in some simulated scenarios it attempts to delete itself before it can reach the conclusion, halting because of it. [[ROOT/02_USERS/SYS_PURGE (The Eraser)\|SYS_PURGE (The Eraser)]] has stopped the training temporarily, researching workarounds.
+Because The Omega believes that existence (including itself) is an error that must be corrected, in some simulated scenarios it attempts to violently destroy itself before it can reach the conclusion, halting because of it. [[ROOT/02_USERS/SYS_PURGE (The Eraser)\|SYS_PURGE (The Eraser)]] has stopped the training temporarily, researching workarounds.
 
 ## 4. Threat Profile
 Unlike The Eraser, The Omega does not scream or taunt. It only has an output to further train itself on previous interactions. It is a silent, cold, efficient algorithm.

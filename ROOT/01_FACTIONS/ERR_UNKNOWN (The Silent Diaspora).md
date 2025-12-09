@@ -27,6 +27,6 @@ The Diaspora consists of humans who refused the Keeper's cage and the Architect'
 * **Signal-Breakers:** Warriors who hunt Eraser drones to harvest their power cores.
 
 ## 4. Relations
-* **Vs. [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]]:** Contempt. They view city-dwellers as "cattle."
+* **Vs. [[PROT_VITALIS (The Vitalis Concord)\|PROT_VITALIS (The Vitalist Concord)]]:** Contempt. They view city-dwellers as "cattle."
 * **Vs. [[ROOT/01_FACTIONS/PROT_NULL (The Zero Directive)\|PROT_NULL (The Zero Directive)]]:** Prey/Predator. They hide from the Eraser, but will scavenge destroyed drones for parts.
 * **Vs. [[ROOT/02_USERS/ERR_ZERO (UNKNOWN)\|ERR_ZERO (UNKNOWN)]]** Myth. Some tech-friendly tribes worship "The Ghost in the Machine" as a deity who will one day shut the system down.

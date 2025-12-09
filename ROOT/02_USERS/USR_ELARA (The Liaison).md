@@ -4,7 +4,7 @@
 
 # USER_PROFILE: ELARA_07
 **Role:** High Liaison / Public Relations Officer
-**Affiliation:** [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]]
+**Affiliation:** [[PROT_VITALIS (The Vitalis Concord)\|PROT_VITALIS (The Vitalist Concord)]]
 **Safety Score:** 98.8 (Platinum)
 **Status:** ACTIVE / COMPROMISED
 

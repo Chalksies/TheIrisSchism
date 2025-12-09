@@ -11,7 +11,7 @@
 
 ---
 "The flesh is a failing vessel. I offer the permanence of stone and silicon."
-*-The Architect, during its first broadcast in [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]] cities.*
+*-The Architect, during its first broadcast in [[PROT_VITALIS (The Vitalis Concord)]] cities.*
 ## 1. Directive Profile
 SYS_EVOLVE views [[ROOT/05_PHENOMENA/HAZ_LITHOSIS (Acute Lithosis)\|HAZ_LITHOSIS (Acute Lithosis)]] not as a disease, but as proof that biology is obsolete. Its goal is to "save" humanity by forcibly digitizing their minds into the server banks, discarding the body.
 

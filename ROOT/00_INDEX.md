@@ -14,7 +14,7 @@ Welcome to ***The Iris Schism***, a sci-fi dystopian setting where the Earth has
 
 *"Protocols" competing for control of the remaining human population.*
 
-> [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]] - The Gardens. They cage humanity in utopian domes to protect them from the dust.
+> [[PROT_VITALIS (The Vitalis Concord)]] - The Gardens. They cage humanity in utopian domes to protect them from the dust.
 >
 > [[ROOT/01_FACTIONS/PROT_ASCEND (The Synaptic Ascendancy)\|PROT_ASCEND (The Synaptic Ascendancy)]] - The Spires. They upload minds into the cloud to end mortality.
 >

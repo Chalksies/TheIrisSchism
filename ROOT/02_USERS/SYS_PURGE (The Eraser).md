@@ -11,7 +11,7 @@
 
 ---
 "Let it all go to white. Let the silence return."
-*-The Eraser, speaking through a hacked [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]] speaker.*
+*-The Eraser, speaking through a hacked [[PROT_VITALIS (The Vitalis Concord)\|PROT_VITALIS (The Vitalist Concord)]] speaker.*
 ## 1. Directive Profile
 SYS_PURGE is the manifestation of the agony Cery Iris felt before and during the upload. It believes existence is pain. It seeks to end the war by ending the participants. It is the only faction that actively uses [[ROOT/05_PHENOMENA/HAZ_LITHOSIS (Acute Lithosis)\|HAZ_LITHOSIS (Acute Lithosis)]] as a weapon.
 

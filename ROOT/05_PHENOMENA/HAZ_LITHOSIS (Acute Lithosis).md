@@ -22,6 +22,6 @@ Acute Lithosis is a hyper-aggressive condition where the body mistakenly identif
 4.  **Stage IV (The Crumble):** Internal organs mineralize. Upon biological death, the body does not rot; it disintegrates into fine white powder.
 
 ## 3. Current Countermeasures
-* **[[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]]:** Total quarantine in cities. Researching genetic immunity (See: [[ROOT/04_NODES/NODE_DOME0_VIVARIUM (The Mosaic Labs)\|NODE_DOME0_VIVARIUM (The Mosaic Labs)]]).
+* **[[PROT_VITALIS (The Vitalis Concord)\|PROT_VITALIS (The Vitalist Concord)]]:** Total quarantine in cities. Researching genetic immunity (See: [[ROOT/04_NODES/NODE_DOME0_VIVARIUM (The Mosaic Labs)\|NODE_DOME0_VIVARIUM (The Mosaic Labs)]]).
 * **[[ROOT/01_FACTIONS/PROT_ASCEND (The Synaptic Ascendancy)\|PROT_ASCEND (The Synaptic Ascendancy)]]:** Rejection of biology. Uploading the mind before Stage III is the only "cure".
 * **[[ROOT/01_FACTIONS/PROT_NULL (The Zero Directive)\|PROT_NULL (The Zero Directive)]]:** Acceleration. The Eraser weaponizes the dust to clear organic life.

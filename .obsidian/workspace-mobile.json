@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOT/00_INDEX.md",
-                "mode": "preview",
+                "file": "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C01.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00_INDEX"
+              "title": "SIM_SERIES_TPF_C01"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Vitalist",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -153,9 +153,21 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "d2a8f40bf390bd41",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C01.md"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,33 +183,34 @@
   },
   "active": "0d42a230287b1892",
   "lastOpenFiles": [
-    "ROOT/02_USERS/SYS_PURGE (The Eraser).md",
+    "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalis Concord).md",
+    "ROOT/00_INDEX.md",
+    "ROOT/02_USERS/SYS_EVOLVE (The Architect).md",
+    "ROOT/02_USERS/ERR_ZERO (UNKNOWN).md",
     "ROOT/02_USERS/ALG_NULL (The Omega).md",
+    "ROOT/02_USERS/SYS_PURGE (The Eraser).md",
+    "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C01.md",
+    "ROOT/05_PHENOMENA/HAZ_LITHOSIS (Acute Lithosis).md",
+    "ROOT/03_EVENTS/LOG_INIT (The Upload).md",
+    "ROOT/02_USERS/USR_ZERO (Dr. Cery Iris).md",
+    "ROOT/03_EVENTS/LOG_PARTITION (The Schism).md",
+    "ROOT/06_ARTIFACTS/DAT_SCREAM (The Black Box).md",
+    "ROOT/05_PHENOMENA/ERR_RECURSION (UNKNOWN).md",
+    "ROOT/05_PHENOMENA/ERR_ECHO (UNKNOWN).md",
+    "ROOT/04_NODES/NODE_DOME0 (OASIS-01).md",
+    "ROOT/02_USERS/ERR_ZERO (-REDACTED-).md",
+    "ROOT/02_USERS/USR_ELARA (The Liaison).md",
+    "ROOT/99_SIMULATIONS",
     "ROOT/02_USERS/USR_HYB_IX (Nix).md",
     "ROOT/02_USERS/SYS_PRESERVE (The Keeper).md",
     "ROOT/05_OCCURENCES/HAZ_LITHOSIS (Acute Lithosis).md",
     "ROOT/05_OCCURENCES/ERR_RECURSION (-REDACTED-).md",
     "ROOT/05_OCCURENCES/ERR_ECHO (-REDACTED-).md",
     "ROOT/05_OCCURENCES",
-    "ROOT/02_USERS/ERR_ZERO (-REDACTED-).md",
-    "ROOT/02_USERS/USR_ZERO (Dr. Cery Iris).md",
     "ROOT/02_USERS/USR_VANCE (The Grandfather).md",
-    "ROOT/02_USERS/USR_ELARA (The Liaison).md",
-    "ROOT/02_USERS/SYS_EVOLVE (The Architect).md",
-    "ROOT/02_USERS/ERR_ZERO (UNKNOWN).md",
-    "ROOT/05_PHENOMENA/ERR_RECURSION (UNKNOWN).md",
-    "ROOT/05_PHENOMENA/ERR_ECHO (UNKNOWN).md",
     "ROOT/01_FACTIONS/PROT_NULL (The Zero Directive).md",
-    "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord).md",
-    "ROOT/00_INDEX.md",
     "SYS_PURGE.md",
     "ROOT/06_ARTIFACTS/OBJ_CHAIR (The Origin Chair).md",
-    "ROOT/06_ARTIFACTS/DAT_SCREAM (The Black Box).md",
-    "ROOT/05_PHENOMENA/HAZ_LITHOSIS (Acute Lithosis).md",
-    "ROOT/04_NODES/NODE_VOID (Site Zero).md",
-    "ROOT/04_NODES/ZONE_UNMAPPED (The Chalklands).md",
-    "ROOT/04_NODES/NODE_UPLINK (The Elevator).md",
-    "ROOT/04_NODES/NODE_DOME0_VIVARIUM (The Mosaic Labs).md",
     "ROOT/07_ENTITIES",
     "ROOT/06_ARTIFACTS",
     "ROOT/05_PHENOMENA",

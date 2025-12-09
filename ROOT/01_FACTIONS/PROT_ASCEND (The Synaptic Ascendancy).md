@@ -27,6 +27,6 @@ The Ascendancy believes that biology is an obsolete platform. [[ROOT/05_PHENOMEN
 * **Logic-Dampeners:** Fields that cause nausea and confusion in biological brains to incapacitate intruders.
 
 ## 4. Relations
-* **Vs. [[ROOT/01_FACTIONS/PROT_VITALIS (The Vitalist Concord)\|PROT_VITALIS (The Vitalist Concord)]]** Transactional. The Architect views the Keeper as a "farming algorithm" that produces fresh minds for the upload.
+* **Vs. [[PROT_VITALIS (The Vitalis Concord)\|PROT_VITALIS (The Vitalist Concord)]]** Transactional. The Architect views the Keeper as a "farming algorithm" that produces fresh minds for the upload.
 * **Vs. [[ROOT/01_FACTIONS/PROT_NULL (The Zero Directive)\|PROT_NULL (The Zero Directive)]]:** War. The Architect calculates that the Eraser is the only threat capable of destroying the servers.
 * **Vs. [[ROOT/01_FACTIONS/ERR_UNKNOWN (The Silent Diaspora)\|ERR_UNKNOWN (The Silent Diaspora)]]:** Resource. Survivors are viewed as "raw material" to be harvested.
