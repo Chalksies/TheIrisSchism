@@ -47,6 +47,8 @@ Welcome to ***The Iris Schism***, a sci-fi dystopian setting where the Earth has
 > **The Synaptic Ascendancy:**
 >
 > [[ROOT/02_USERS/SYS_EVOLVE (The Architect)\|SYS_EVOLVE (The Architect)]] - The Logic (Intellect)
+> 
+> [[USR_CURSOR (The Hunter)]] - The Assassin 
 
 > **The Zero Directive:**
 > 

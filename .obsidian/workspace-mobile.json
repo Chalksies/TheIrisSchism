@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C01.md",
-                "mode": "source",
+                "file": "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C05.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SIM_SERIES_TPF_C01"
+              "title": "SIM_SERIES_TPF_C05"
             }
           }
         ]
@@ -183,13 +183,21 @@
   },
   "active": "0d42a230287b1892",
   "lastOpenFiles": [
-    "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalis Concord).md",
-    "ROOT/00_INDEX.md",
-    "ROOT/02_USERS/SYS_EVOLVE (The Architect).md",
-    "ROOT/02_USERS/ERR_ZERO (UNKNOWN).md",
-    "ROOT/02_USERS/ALG_NULL (The Omega).md",
-    "ROOT/02_USERS/SYS_PURGE (The Eraser).md",
+    "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C04.md",
+    "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C03.md",
+    "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C02.md",
     "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C01.md",
+    "ROOT/02_USERS/USR_CURSOR (The Hunter).md",
+    "ROOT/02_USERS/SYS_EVOLVE (The Architect).md",
+    "ROOT/00_INDEX.md",
+    "ROOT/02_USERS/ERR_ZERO (UNKNOWN).md",
+    "ROOT/02_USERS/SYS_PRESERVE (The Keeper).md",
+    "ROOT/02_USERS/SYS_PURGE (The Eraser).md",
+    "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C05.md",
+    "ROOT/04_NODES/NODE_ISOLATION (Sector 44).md",
+    "ROOT/99_SIMULATIONS/SIM_SERIES_TPF_C01 1.md",
+    "ROOT/01_FACTIONS/PROT_VITALIS (The Vitalis Concord).md",
+    "ROOT/02_USERS/ALG_NULL (The Omega).md",
     "ROOT/05_PHENOMENA/HAZ_LITHOSIS (Acute Lithosis).md",
     "ROOT/03_EVENTS/LOG_INIT (The Upload).md",
     "ROOT/02_USERS/USR_ZERO (Dr. Cery Iris).md",
@@ -202,15 +210,7 @@
     "ROOT/02_USERS/USR_ELARA (The Liaison).md",
     "ROOT/99_SIMULATIONS",
     "ROOT/02_USERS/USR_HYB_IX (Nix).md",
-    "ROOT/02_USERS/SYS_PRESERVE (The Keeper).md",
-    "ROOT/05_OCCURENCES/HAZ_LITHOSIS (Acute Lithosis).md",
-    "ROOT/05_OCCURENCES/ERR_RECURSION (-REDACTED-).md",
-    "ROOT/05_OCCURENCES/ERR_ECHO (-REDACTED-).md",
     "ROOT/05_OCCURENCES",
-    "ROOT/02_USERS/USR_VANCE (The Grandfather).md",
-    "ROOT/01_FACTIONS/PROT_NULL (The Zero Directive).md",
-    "SYS_PURGE.md",
-    "ROOT/06_ARTIFACTS/OBJ_CHAIR (The Origin Chair).md",
     "ROOT/07_ENTITIES",
     "ROOT/06_ARTIFACTS",
     "ROOT/05_PHENOMENA",
